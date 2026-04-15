@@ -1,4 +1,4 @@
 ConsoleApplication1
 .vscode
 .github
-
+*/__pycache__/*

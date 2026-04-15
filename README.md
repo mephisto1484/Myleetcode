@@ -1,4 +1,6 @@
 # Myleetcode
-My codes for leetcode. most are in Python and seldom C++
+这里是我的leetcode代码库，大部分是用Python写的，极少部分是C++
 
-Also this is a test for GitHub
+这也是一个GitHub和Git的使用实验室
+
+现在，这里还有一些我用Python开发的小游戏。
